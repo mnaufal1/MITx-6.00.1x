@@ -37,7 +37,6 @@ while i+2 < len(s):
     if len(substr) > len(temp):
         temp = substr
     substr = ""
-
 if temp == "":
     temp = s[0]
     
