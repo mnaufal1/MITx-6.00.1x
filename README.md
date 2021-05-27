@@ -3,4 +3,4 @@ This is a place where I will upload my code for the problem sets in the MIT XSer
 
 All of the code I have uploaded uses Python 3.x.
 
-This was made Jan-Mar 2021.
+This was done Jan-Mar 2021.
